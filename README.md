@@ -23,7 +23,7 @@ The system used **ESP32-based hardware and MQTT communication** to transmit devi
 
 **Technologies:** ESP32 • MQTT • Node.js • IoT • GPS • React Native
 
-> This project was developed as part of an engineering project. A public version and technical documentation are being prepared for this portfolio.
+> Originally developed as an engineering project. I'm currently preparing a cleaned-up public version of the code and documentation.
 
 ## 💻 Technologies
 
