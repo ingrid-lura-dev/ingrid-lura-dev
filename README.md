@@ -28,7 +28,7 @@ The system used **ESP32-based hardware and MQTT communication** to transmit devi
 ## 💻 Technologies
 
 **Languages & Backend**  
-JavaScript • Node.js • Python • Perl • Go • SQL
+JavaScript • Node.js • Python • Perl • SQL
 
 **APIs & Automation**  
 REST APIs • JSON • Postman • Workflow Automation • System Integrations
