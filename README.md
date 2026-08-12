@@ -42,16 +42,4 @@ Datadog • Grafana • PostgreSQL • SQL Server
 **IoT & Embedded**  
 ESP32 • MQTT • Embedded Systems • Hardware Integration
 
-## 🚀 Featured Project
-
-### LATAM Growth Strategy Dashboard
-
-Interactive React dashboard combining business strategy, data visualization, regional growth planning, and API integration concepts.
-
-Built with **React, JavaScript, Vite, Framer Motion, and Recharts**.
-
-👉 [View the project](https://github.com/ingrid-lura-dev/latam-growth-dashboard)
-
----
-
 📍 Paraguay  
